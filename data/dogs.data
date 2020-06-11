@@ -1,0 +1,4 @@
+classes=1
+train=data/dogs.txt
+valid=data/dogs.txt
+names=data/dogs.names
